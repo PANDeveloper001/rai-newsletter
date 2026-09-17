@@ -7,4 +7,4 @@ Live feed: https://www.rai-agent.xyz
 
 ## Issues
 
-- (none yet)
+- [2026-09-16 — Rai opens 12 outreach issues and improves 4 skills](issues/2026-09-16.md)
